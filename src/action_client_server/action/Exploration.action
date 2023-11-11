@@ -1,0 +1,6 @@
+geometry_msgs/PoseStamped trgt_pose
+---
+bool success
+---
+int32 distance_left
+

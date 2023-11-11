@@ -1,0 +1,19 @@
+# Define the structure of the Takeoff action
+#
+# The Takeoff action is used to make a drone takeoff to a specified altitude
+#
+# Request:
+# - float32 altitude
+#
+# Response:
+# - bool success
+#
+# Feedback:
+# - bool reached_altitude
+
+float32 altitude
+---
+bool success
+---
+bool reached_altitude
+

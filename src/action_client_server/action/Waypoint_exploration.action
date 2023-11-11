@@ -1,0 +1,8 @@
+
+int32 strtng_pt
+---
+int32 no_points_covered
+bool success
+---
+int32 no_points_covered
+

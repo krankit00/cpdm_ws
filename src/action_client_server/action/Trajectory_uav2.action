@@ -1,0 +1,8 @@
+geometry_msgs/Point[] traj_points
+int32 starting_point
+---
+bool surface_success
+int32 points_covered
+---
+float32 percentage
+int32 no_points_covered
